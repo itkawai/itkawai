@@ -1,0 +1,38 @@
+{
+  "name": "itkawai.com",
+  "short_name": "itkawai",
+  "start_url": "https://www.itkawai.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "itkawai.com merupakan website yang di buat khusus untuk membahas mengenai makanan yang terdiri dari sayuran, buah-buahan, dan makanan khas luar negeri maupun makanan khas daerah .",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-pb53ui9u6LQ/XZCYuB56JpI/AAAAAAAAAhc/0uBFEmBl6W4bDAscN-up1II67q7-AYSbwCEwYBhgL/s1600/ico48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-tDQ3FxRjxvY/XZCYuqYkQtI/AAAAAAAAAhg/_M4VRwCKXooQSfRPzqN8sOJV4jxU-cKAQCEwYBhgL/s1600/ico72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-aC1QGfG-sOo/XZCYuwz5iAI/AAAAAAAAAho/BctZ9SmJ4usXWliW5OFEUFoqPxIyHuXFACEwYBhgL/s1600/ico96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-R5J0AN-1zq4/XZCYsFfYOtI/AAAAAAAAAhE/BSTH7qVXY8wXQ7C8ewJ4jVfRjZo63wA_QCEwYBhgL/s1600/ico144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-lFHXvuzPYwY/XZCYsTUr3nI/AAAAAAAAAhs/EgTgpAfhdeoCNc3_StFkFvn7IiFZHWheACEwYBhgL/s1600/ico168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-vkX-ofsYL0k/XZCYtOmRJfI/AAAAAAAAAhw/aLeLBiEgpDUXaADcwA41ZZUpNsIfn31kwCEwYBhgL/s1600/ico192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FMKxlOPNDMk/XZCYuvt-jgI/AAAAAAAAAh8/vy5RkfiYQwYMn-crPVCkqwVjlyvQMb5TACEwYBhgL/s320/ico512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
